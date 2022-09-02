@@ -1,0 +1,15 @@
+C:\GB\HW_7_C#\ex_1\bin\Debug\net7.0\ex_1.exe
+C:\GB\HW_7_C#\ex_1\bin\Debug\net7.0\ex_1.deps.json
+C:\GB\HW_7_C#\ex_1\bin\Debug\net7.0\ex_1.runtimeconfig.json
+C:\GB\HW_7_C#\ex_1\bin\Debug\net7.0\ex_1.dll
+C:\GB\HW_7_C#\ex_1\bin\Debug\net7.0\ex_1.pdb
+C:\GB\HW_7_C#\ex_1\obj\Debug\net7.0\ex_1.csproj.AssemblyReference.cache
+C:\GB\HW_7_C#\ex_1\obj\Debug\net7.0\ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HW_7_C#\ex_1\obj\Debug\net7.0\ex_1.AssemblyInfoInputs.cache
+C:\GB\HW_7_C#\ex_1\obj\Debug\net7.0\ex_1.AssemblyInfo.cs
+C:\GB\HW_7_C#\ex_1\obj\Debug\net7.0\ex_1.csproj.CoreCompileInputs.cache
+C:\GB\HW_7_C#\ex_1\obj\Debug\net7.0\ex_1.dll
+C:\GB\HW_7_C#\ex_1\obj\Debug\net7.0\refint\ex_1.dll
+C:\GB\HW_7_C#\ex_1\obj\Debug\net7.0\ex_1.pdb
+C:\GB\HW_7_C#\ex_1\obj\Debug\net7.0\ex_1.genruntimeconfig.cache
+C:\GB\HW_7_C#\ex_1\obj\Debug\net7.0\ref\ex_1.dll
